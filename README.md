@@ -1,7 +1,7 @@
-Handicrafts Haven: An Artisanal Marketplace
+Handicrafts store: An Artisanal Marketplace
 !Handicrafts
 
-Welcome to Handicrafts Haven, where creativity meets commerce! 🌟 Our project brings together Flutter, Dart, PHP, and RESTful APIs to create an enchanting online store for unique handmade products. Whether you’re an artist, a shopper, or a tech enthusiast, there’s something here for everyone.
+Welcome to store, where creativity meets commerce! 🌟 Our project brings together Flutter, Dart, PHP, and RESTful APIs to create an enchanting online store for unique handmade products. Whether you’re an artist, a shopper, or a tech enthusiast, there’s something here for everyone.
 
 Project Overview
 Purpose: To empower artisans and connect them with appreciative buyers.
@@ -54,4 +54,4 @@ Seller Dashboard: Empower artisans to manage their listings.
 Localization: Translate the app for a global audience.
 Image Uploads: Let sellers showcase their creations.
 Security Enhancements: Implement token-based authentication.
-Feel free to explore our code and contribute on GitHub. Let’s celebrate craftsmanship and community! 🎨✨
+Feel free to explore our code and contribute on GitHub. Let’s celebrate craftsmanship and community! 🎨
